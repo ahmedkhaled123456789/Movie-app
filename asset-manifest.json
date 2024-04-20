@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Restaurants-App-ReactJS/static/css/main.c0422b68.chunk.css",
+    "main.js": "/Restaurants-App-ReactJS/static/js/main.4513e3d2.chunk.js",
+    "main.js.map": "/Restaurants-App-ReactJS/static/js/main.4513e3d2.chunk.js.map",
+    "reactPlayerPreview.js": "/Restaurants-App-ReactJS/static/js/reactPlayerPreview.1d5b6446.chunk.js",
+    "reactPlayerPreview.js.map": "/Restaurants-App-ReactJS/static/js/reactPlayerPreview.1d5b6446.chunk.js.map",
+    "runtime-main.js": "/Restaurants-App-ReactJS/static/js/runtime-main.8111a91d.js",
+    "runtime-main.js.map": "/Restaurants-App-ReactJS/static/js/runtime-main.8111a91d.js.map",
+    "static/css/3.215b8fcf.chunk.css": "/Restaurants-App-ReactJS/static/css/3.215b8fcf.chunk.css",
+    "static/js/3.c3691ab4.chunk.js": "/Restaurants-App-ReactJS/static/js/3.c3691ab4.chunk.js",
+    "static/js/3.c3691ab4.chunk.js.map": "/Restaurants-App-ReactJS/static/js/3.c3691ab4.chunk.js.map",
+    "index.html": "/Restaurants-App-ReactJS/index.html",
+    "static/css/3.215b8fcf.chunk.css.map": "/Restaurants-App-ReactJS/static/css/3.215b8fcf.chunk.css.map",
+    "static/css/main.c0422b68.chunk.css.map": "/Restaurants-App-ReactJS/static/css/main.c0422b68.chunk.css.map",
+    "static/js/3.c3691ab4.chunk.js.LICENSE.txt": "/Restaurants-App-ReactJS/static/js/3.c3691ab4.chunk.js.LICENSE.txt",
+    "static/media/movix-logo.9d67d13c.svg": "/Restaurants-App-ReactJS/static/media/movix-logo.9d67d13c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8111a91d.js",
+    "static/css/3.215b8fcf.chunk.css",
+    "static/js/3.c3691ab4.chunk.js",
+    "static/css/main.c0422b68.chunk.css",
+    "static/js/main.4513e3d2.chunk.js"
+  ]
+}
